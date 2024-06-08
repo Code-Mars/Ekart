@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Ekart/static/css/main.34ec7c7c.css",
-    "main.js": "/Ekart/static/js/main.9ed1e857.js",
+    "main.css": "/Ekart/static/css/main.673cef02.css",
+    "main.js": "/Ekart/static/js/main.8724b5c2.js",
     "static/js/453.63ddf287.chunk.js": "/Ekart/static/js/453.63ddf287.chunk.js",
     "static/media/slick.svg": "/Ekart/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Ekart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Ekart/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Ekart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Ekart/index.html",
-    "main.34ec7c7c.css.map": "/Ekart/static/css/main.34ec7c7c.css.map",
-    "main.9ed1e857.js.map": "/Ekart/static/js/main.9ed1e857.js.map",
+    "main.673cef02.css.map": "/Ekart/static/css/main.673cef02.css.map",
+    "main.8724b5c2.js.map": "/Ekart/static/js/main.8724b5c2.js.map",
     "453.63ddf287.chunk.js.map": "/Ekart/static/js/453.63ddf287.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34ec7c7c.css",
-    "static/js/main.9ed1e857.js"
+    "static/css/main.673cef02.css",
+    "static/js/main.8724b5c2.js"
   ]
 }
